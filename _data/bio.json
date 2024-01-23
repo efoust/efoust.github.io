@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ethan Foust",
-    "label": "Student",
+    "label": "Undergraduate Student",
     "picture": "https://github.com/efoust.png",
     "email": "efoust@hawaii.edu",
     "phone": "510-710-5193",
@@ -26,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
