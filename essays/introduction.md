@@ -9,5 +9,5 @@ labels:
   - Introduction
 ---
 
- **About Me**
+
 My Name is Ethan Foust. I am a Junior here at the University of Hawaii at Manoa. I am a Management Information Systems Major at Shidler College of Business. I am from Oakland, California. I enjoy playing soccer, surfing, hiking, and spending time at the beach. 
