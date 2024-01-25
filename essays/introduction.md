@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Introduction"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-025
+date: 2023-01-25
 published: true
 labels:
   - Introduction
